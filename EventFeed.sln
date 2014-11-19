@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventFeed", "EventFeed\EventFeed.csproj", "{56064BE3-98C4-44B1-967C-DA1C6F679675}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventFeed", "src\EventFeed\EventFeed.csproj", "{56064BE3-98C4-44B1-967C-DA1C6F679675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
